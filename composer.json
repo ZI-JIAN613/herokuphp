@@ -1,0 +1,13 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Tan Zi Jian",
+            "email": "20025988@myrp.edu.sg"
+        }
+    ],
+    "require": {}
+}
