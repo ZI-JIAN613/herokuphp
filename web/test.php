@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="" content="This is a activity to learn more about google lighthouse">
+    <meta name="description" content="This is a activity to learn more about google lighthouse">
     <title>Document</title>
 </head>
 <body>
